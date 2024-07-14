@@ -6,7 +6,7 @@
 
 ## 💻 Projeto
 
-**[Refund](https://adrianotobias.github.io/refund/)** é uma página de "solicitação de reembolso", desenvolvida durante o **[MBA Fullstack](https://www.rocketseat.com.br/mba)**, provido pela **[Rocketseat](https://rocketseat.com.br/)**, em parceria com a **[Sirius Education](https://landing.sirius.education/home/)**.
+**[Refund](https://adrianotobias.github.io/refund/)** é uma página de "solicitação de reembolso", através da qual pode-se adicionar despesas (juntamente à sua categoria e valor), bem como visualizá-las e removê-las. Esse projeto foi desenvolvido durante o **[MBA Fullstack](https://www.rocketseat.com.br/mba)**, provido pela **[Rocketseat](https://rocketseat.com.br/)**, em parceria com a **[Sirius Education](https://landing.sirius.education/home/)**.
 
 
 ## 🧪 Tecnologias
